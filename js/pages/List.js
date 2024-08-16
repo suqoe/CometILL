@@ -98,9 +98,10 @@ export default {
                             </li>
                         </ol>
                     </template>
+                    <h2>RULES</h2>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        Achieved the record without using hacks (however, FPS bypass is allowed.)
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
@@ -122,6 +123,28 @@ export default {
                     </p>
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                    </p>
+                    <h3>Level Requirements</h3>
+                    <p>
+                    Levels must be considered impossible
+                    </p>
+                    <p>
+                    Levels must be psychically possible
+                    </p>
+                    <p>
+                    Levels must be finished and of decent quality
+                    </p>
+                    <p>
+                    Levels must be over 15 seconds
+                    </p>
+                    <p>
+                    Levels MUST have a showcase
+                    </p>
+                    <p>
+                    Levels must not have more than 12cps
+                    </p>
+                    <p>
+                    World records have a minimum progress percentage based on the level’s placement on the list
                     </p>
                 </div>
             </div>
