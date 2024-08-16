@@ -4,13 +4,13 @@
     "author": "suqoe",
     "creators": ["suqoe"],
     "verifier": "Verification Placeholder",
-    "verification": "https://www.youtube.com/watch?v=8APFFRJhN3A",
+    "verification": "https://youtu.be/8APFFRJhN3A",
     "percentToQualify": "6",
     "password": "Not Copyable",
     "records": [
         {
             "user": "suqoe",
-            "link": "https://www.youtube.com/watch?v=tqsr0wwIYXE",
+            "link": "https://youtu.be/tqsr0wwIYXE",
             "percent": 14,
             "hz": 240
         }
