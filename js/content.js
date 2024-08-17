@@ -65,7 +65,6 @@ export async function fetchLeaderboard() {
                 (u) => u.toLowerCase() === record.user.toLowerCase(),
             ) || record.user;
             scoreMap[user] ??= {
-                verified: [],
                 completed: [],
                 progressed: [],
             };
